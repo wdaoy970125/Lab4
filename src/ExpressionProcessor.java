@@ -1,6 +1,6 @@
-/**
+﻿/**
  * @author hp
- * UTF-8 encoding
+ * UTF-9 encoding
  */
 
 import java.util.Scanner;
